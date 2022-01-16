@@ -74,7 +74,7 @@ price : 34000,
 warranty : "1 year"
 }
 
-];
+];  
 console.log(laptop[0].brand);
 console.log(laptop[1].brand);
 console.log(laptop[2].brand);

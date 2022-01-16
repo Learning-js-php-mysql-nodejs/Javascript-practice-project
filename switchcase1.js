@@ -1,6 +1,7 @@
 var month = 8 ;
 switch (month)
 
+
 {
     case 1:
         console.log("January");

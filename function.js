@@ -2,6 +2,7 @@ function first(){
     console.log("hello");
 }
 
+
 function second(){
      first();
      console.log("virendra");

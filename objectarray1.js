@@ -65,6 +65,7 @@ warranty : "1 year"
 }
 ];
 
+
     console.log(mobile[0].model_name);
     console.log(mobile[1].model_name);
     console.log(mobile[2].model_name);

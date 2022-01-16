@@ -16,6 +16,7 @@ var colony ={
 };
 
 
+
 console.log(colony.colonyName);
 console.log(colony.owner);
 console.log(colony.area);

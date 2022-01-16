@@ -5,3 +5,4 @@ if(a > b)
   console.log("A is greater then B");
   else 
   console.log("B is greater then A");
+  

@@ -3,13 +3,13 @@ var number = 2;
  switch (number)
  {
      case 1: 
-     var k = 1;
+     var k = 2;
      first(k);
      
      break;
      
      case 2: 
-     var k = 2;
+     var k = 1;
      first(k);
 
       

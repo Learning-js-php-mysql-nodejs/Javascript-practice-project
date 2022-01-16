@@ -5,4 +5,4 @@ console.log(student.B);
 console.log(student.C);
 console.log(student.D);
 console.log(student.E);
-console.log(student.F);
+console.log(student.F); 

@@ -10,3 +10,4 @@ if(a > b && a > c)
                console.log("c is greater");
                else
                  console.log("please enter the diffrent value");
+                 

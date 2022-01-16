@@ -11,3 +11,4 @@ if(100 >= pre && pre >= 60)
               console.log("you are failed");
                   else
                    console.log("plz enter the valid percentage");
+                   

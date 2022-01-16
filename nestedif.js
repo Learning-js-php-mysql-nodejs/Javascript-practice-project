@@ -11,3 +11,4 @@ if ( age >= 14 && age <= 20 )
             else if ( age >= 41 && age <= 100);
             console.log(" you senior citizan");
    }
+   

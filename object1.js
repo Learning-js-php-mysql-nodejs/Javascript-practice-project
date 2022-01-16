@@ -14,6 +14,7 @@ var cuntry ={
     area : 3287263,
     GDP : 7.0 , 
     currency : "indian rupee"
+    
 };
 
 console.log(cuntry.name);

@@ -6,5 +6,6 @@ d = b;
 a = d;
 b = c;
 
+
 console.log(a);
 console.log(b);
